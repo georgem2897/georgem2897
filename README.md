@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @georgem2897
+- 👋 Hi, I’m George!
 - 👀 I’m a recruitment consulant specialising in the MedTech space
 - 🌱 I’m currently learning the engineering / developer space as well as learning to code myself
 - 💞️ I’m looking to find software engineers and developers find their next role without the standard recruiter pressures
