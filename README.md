@@ -1,8 +1,8 @@
 - 👋 Hi, I’m George!
 - 👀 I’m a recruitment consulant specialising in the MedTech space
-- 🌱 I’m currently learning the engineering / developer space as well as learning to code myself
-- 💞️ I’m looking to find software engineers and developers find their next role without the standard recruiter pressures
-- 📫 How to reach me : george.morgan@clinical-sessions.co.uk
+- 🌱 I’m currently learning how to code using Python by using free sources such as FreeCodeCamp and YouTube
+- 💞️ I’m also helping software professionals find their next career move into the expansive world of MedTech!
+- 📫 How to reach me : george.morgan@kpi-health.co.uk
 
 <!---
 georgem2897/georgem2897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
