@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George!
-- 👀 I’m a recruitment consulant specialising in the MedTech space
+- 👀 Aspiring developer and recruitment consultant
 - 🌱 I’m currently learning how to code using Python by using free sources such as FreeCodeCamp and YouTube
 - 💞️ I’m also helping software professionals find their next career move into the expansive world of MedTech!
 - 📫 How to reach me : george.morgan@kpi-health.co.uk
